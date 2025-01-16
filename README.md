@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I am Azizbek Husainov, a Computer Science student at Wright State University. 
+Hi! I am Azizbek Husainov, a Computer Science student at Wright State University. I am actively looking for internships at the moment to learn and apply technical skills. Over the summer I would like to work on a project that incorporates artificial intelligence. I would first like to start and create a portfolio page that describes a little about me and show some of my projects that I have completed. For the other project, I would like to implement a chatbot on my portfolio that talks about me!  
